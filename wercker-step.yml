@@ -1,0 +1,18 @@
+name: keen
+version: 0.1.0
+description: Report build metric to Keen.io
+keywords:
+  - keen.io
+  - metrics
+  - afterstep
+properties:
+  project_id:
+    type: string
+    required: true
+  write_key:
+    type: string
+    required: true
+  event_name:
+    type: string
+    required: true
+
