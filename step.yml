@@ -1,5 +1,5 @@
 name: keen
-version: 1.0.0
+version: 1.0.1
 summary: Report build metric to Keen.io
 tags:
   - keen.io
